@@ -1,0 +1,16 @@
+﻿'ConsoleApplication165.exe' (Win32): Loaded 'C:\Users\JCC\source\repos\ConsoleApplication165\ConsoleApplication165\x64\Debug\ConsoleApplication165.exe'. Symbols loaded.
+'ConsoleApplication165.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'ConsoleApplication165.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'ConsoleApplication165.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'ConsoleApplication165.exe' (Win32): Loaded 'C:\Windows\System32\apphelp.dll'. 
+'ConsoleApplication165.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'ConsoleApplication165.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'ConsoleApplication165.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'ConsoleApplication165.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 17524 has exited with code 0 (0x0).
+'ConsoleApplication165.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'ConsoleApplication165.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'ConsoleApplication165.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+The thread 9488 has exited with code 0 (0x0).
+The thread 15928 has exited with code 0 (0x0).
+The program '[13532] ConsoleApplication165.exe' has exited with code 0 (0x0).
