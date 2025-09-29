@@ -10,8 +10,9 @@ int FunRand_numbers(int from, int to)
 int main()
 {
 	srand((unsigned)time(NULL));
+	FunRand_numbers(97, 122);
 
-	cout << FunRand_numbers(1, 10);
+	//cout <<"the small random letter : "<<char( FunRand_numbers(97,122))
 
 	return 0;
 }
